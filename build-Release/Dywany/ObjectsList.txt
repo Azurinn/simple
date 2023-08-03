@@ -1,0 +1,1 @@
+../build-Release/Dywany/main.cpp.o   
