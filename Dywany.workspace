@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Dywany" Database="" Version="10000">
-  <Project Name="Dywany" Path="Dywany/Dywany.project" Active="Yes"/>
+  <Project Name="Dywany" Path="Dywany/Dywany.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="Dywany" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Dywany" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

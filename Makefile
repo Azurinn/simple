@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Dywany - Release ]----------"
-	@cd "Dywany" && "$(MAKE)" -f  "Dywany.mk"
+	@echo "----------Building project:[ Vectors - Release ]----------"
+	@cd "Vectors" && "$(MAKE)" -f  "Vectors.mk"
 clean:
-	@echo "----------Cleaning project:[ Dywany - Release ]----------"
-	@cd "Dywany" && "$(MAKE)" -f  "Dywany.mk" clean
+	@echo "----------Cleaning project:[ Vectors - Release ]----------"
+	@cd "Vectors" && "$(MAKE)" -f  "Vectors.mk" clean
