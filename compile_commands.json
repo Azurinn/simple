@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\Users\\Jasiu\\Workspaces\\Dywany\\Changer\\main.cpp",
+  "directory": "C:\\Users\\Jasiu\\Workspaces\\Dywany\\Changer",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Jasiu\\Workspaces\\Dywany\\Changer\\main.cpp -o C:\\Users\\Jasiu\\Workspaces\\Dywany\\Changer\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -IC:\\mingw64\\bin\\mingw\\include -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
   "file": "C:\\Users\\Jasiu\\Workspaces\\Dywany\\Vectors\\main.cpp",
   "directory": "C:\\Users\\Jasiu\\Workspaces\\Dywany\\Vectors",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Jasiu\\Workspaces\\Dywany\\Vectors\\main.cpp -o C:\\Users\\Jasiu\\Workspaces\\Dywany\\Vectors\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -IC:\\mingw64\\bin\\mingw\\include -DNDEBUG -I. -I.  -O2  -Wall"
