@@ -1,0 +1,1 @@
+../build-Release/Kolejne/main.cpp.o   
