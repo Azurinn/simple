@@ -4,7 +4,8 @@
   <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
   <Project Name="Changer" Path="Changer/Changer.project" Active="No"/>
   <Project Name="Loops" Path="Loops/Loops.project" Active="No"/>
-  <Project Name="Kolejne" Path="Kolejne/Kolejne.project" Active="Yes"/>
+  <Project Name="Kolejne" Path="Kolejne/Kolejne.project" Active="No"/>
+  <Project Name="Piramida" Path="Piramida/Piramida.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +14,7 @@
       <Project Name="Changer" ConfigName="Debug"/>
       <Project Name="Loops" ConfigName="Debug"/>
       <Project Name="Kolejne" ConfigName="Debug"/>
+      <Project Name="Piramida" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +23,7 @@
       <Project Name="Changer" ConfigName="Release"/>
       <Project Name="Loops" ConfigName="Release"/>
       <Project Name="Kolejne" ConfigName="Release"/>
+      <Project Name="Piramida" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

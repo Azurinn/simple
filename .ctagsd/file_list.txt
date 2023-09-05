@@ -1,5 +1,6 @@
+C:\Users\Jasiu\Workspaces\Dywany\Piramida\main.cpp
+C:\Users\Jasiu\Workspaces\Dywany\Dywany\main.cpp
 C:\Users\Jasiu\Workspaces\Dywany\Loops\main.cpp
 C:\Users\Jasiu\Workspaces\Dywany\Changer\main.cpp
 C:\Users\Jasiu\Workspaces\Dywany\Vectors\main.cpp
 C:\Users\Jasiu\Workspaces\Dywany\Kolejne\main.cpp
-C:\Users\Jasiu\Workspaces\Dywany\Dywany\main.cpp
